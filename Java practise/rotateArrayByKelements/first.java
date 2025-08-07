@@ -66,3 +66,6 @@ public class first {
     }
     }
 }
+
+//time complexity: O(n)
+//space complexity: O(k)
